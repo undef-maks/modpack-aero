@@ -3,6 +3,6 @@
   "mode": "testing",
   "minecraft_version": "1.21.1",
   "downloader": "neoforge",
-  "background_url": ""
+  "background_url": "",
   "downloader_version": "21.1.233" 
 }
